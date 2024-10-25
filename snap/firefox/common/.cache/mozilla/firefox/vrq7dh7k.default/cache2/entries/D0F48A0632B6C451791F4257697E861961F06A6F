@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Fri, 25 Oct 2024 10:19:25 GMT -->
+  <!-- Cached: Fri, 25 Oct 2024 10:55:49 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -35,9 +35,9 @@ window.__STARTUP_STATE__ = {
 		"rows": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 683,
+				"frecency": 2700,
 				"guid": "TKQTXQjmzB_m",
-				"lastVisitDate": 1729798408618,
+				"lastVisitDate": 1729852865931,
 				"title": "Telegram Web",
 				"url": "https://web.telegram.org/k/#@main_sigmaSirius",
 				"type": "history",
@@ -139,9 +139,9 @@ window.__STARTUP_STATE__ = {
 		"links": [
 			{
 				"bookmarkGuid": null,
-				"frecency": 683,
+				"frecency": 2700,
 				"guid": "TKQTXQjmzB_m",
-				"lastVisitDate": 1729798408618,
+				"lastVisitDate": 1729852865931,
 				"title": "Telegram Web",
 				"url": "https://web.telegram.org/k/#@main_sigmaSirius",
 				"type": "history",
@@ -688,7 +688,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1729803169604,
+			"lastUpdated": 1729853144046,
 			"data": {
 				"settings": {
 					"feature_flags": {
@@ -828,4 +828,5 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ñ7µ„}Ñ           gp­GwìÇÿÿÿÿ       :about:home alt-data 1;21483,script version 20240819223648  Ë
+½ˆÁ
+ü           gy5Gwò±ÿÿÿÿ       :about:home alt-data 1;21483,script version 20240819223648  Í

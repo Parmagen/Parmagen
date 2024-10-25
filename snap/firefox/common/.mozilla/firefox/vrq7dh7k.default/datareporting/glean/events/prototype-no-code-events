@@ -1,1 +1,3 @@
-{"timestamp":140915,"category":"browser.usage","name":"interaction","extra":{"widget_id":"cmd-closeWindow","flow_id":"{aac8ae7c-584b-4b79-98d2-208892187d95}","glean_timestamp":"1729851649405","source":"tabs-bar"},"execution_counter":1}
+{"timestamp":1359591,"category":"browser.usage","name":"interaction","extra":{"glean_timestamp":"1729852868081","widget_id":"tab-close-button","source":"tabs-bar","flow_id":"{80c8ffc2-346d-465e-a72d-c1e8d5e8922c}"},"execution_counter":2}
+{"timestamp":1361566,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","glean_timestamp":"1729852870056","widget_id":"tab-close-button","flow_id":"{80c8ffc2-346d-465e-a72d-c1e8d5e8922c}"},"execution_counter":2}
+{"timestamp":1366316,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"browser-window-minimize-button","flow_id":"{80c8ffc2-346d-465e-a72d-c1e8d5e8922c}","glean_timestamp":"1729852874807"},"execution_counter":2}

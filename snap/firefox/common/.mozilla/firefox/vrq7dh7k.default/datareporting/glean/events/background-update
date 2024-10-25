@@ -1,2 +1,1 @@
-{"timestamp":50167,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"addAnImageInPDF","glean_timestamp":"1729851558657","experiment":"add-an-image-to-pdf-with-alt-text-rollout"}}
-{"timestamp":78450,"category":"nimbus_events","name":"validation_failed","extra":{"glean_timestamp":"1729851586941","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF","reason":"invalid-feature"}}
+{"timestamp":1331012,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","glean_timestamp":"1729852839502","experiment":"add-an-image-to-pdf-with-alt-text-rollout","feature":"addAnImageInPDF"}}
