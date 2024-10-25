@@ -1,0 +1,67 @@
+{
+  "Version": "24.04",
+  "OEM": {
+    "Vendor": "ASUSTeK COMPUTER INC.",
+    "Product": "Vivobook_ASUSLaptop X1502ZA_X1502ZA",
+    "Family": "Vivobook"
+  },
+  "BIOS": {
+    "Vendor": "American Megatrends International, LLC.",
+    "Version": "X1502ZA.315"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "4626"
+    }
+  ],
+  "RAM": 7.8,
+  "Partitions": [
+    41,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "ru_RU",
+  "Timezone": "Europe/Volgograd",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 24.04.1 LTS",
+    "Stages": {
+      "1": "locale",
+      "24": "accessibility",
+      "28": "keyboard",
+      "43": "network",
+      "47": "tryOrInstall",
+      "50": "autoinstall",
+      "52": "sourceSelection",
+      "54": "codecsAndDrivers",
+      "85": "storage",
+      "125": "identity",
+      "192": "timezone",
+      "214": "confirm",
+      "218": "install",
+      "416": "done"
+    },
+    "Language": "ru",
+    "Minimal": true,
+    "RestrictedAddons": false,
+    "PartitionMethod": "resize_use_free",
+    "UseActiveDirectory": false
+  }
+}

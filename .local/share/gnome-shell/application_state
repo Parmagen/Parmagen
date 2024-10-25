@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="3" last-seen="1729686937"/>
+    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
+    <application id="gnome-initial-setup.desktop" score="0.125" last-seen="1729444503"/>
+    <application id="org.gnome.Terminal.desktop" score="76695664.125" last-seen="1729686937"/>
+    <application id="org.gnome.Settings.desktop" score="0.125" last-seen="1729697451"/>
+  </context>
+</application-state>
