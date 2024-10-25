@@ -24,4 +24,44 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/parmagen/README.md" added="2024-10-25T11:07:02.073214Z" modified="2024-10-25T11:07:02.073219Z" visited="2024-10-25T11:07:02.073215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-25T11:07:02.073216Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/log_help.md" added="2024-10-25T11:07:12.190903Z" modified="2024-10-25T11:07:12.190910Z" visited="2024-10-25T11:07:12.190904Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-25T11:07:12.190906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/commit_help.md" added="2024-10-25T11:07:16.862957Z" modified="2024-10-25T11:07:16.862964Z" visited="2024-10-25T11:07:16.862958Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-25T11:07:16.862960Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/reset_help.md" added="2024-10-25T11:07:47.049784Z" modified="2024-10-25T11:07:47.049790Z" visited="2024-10-25T11:07:47.049785Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-25T11:07:47.049787Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

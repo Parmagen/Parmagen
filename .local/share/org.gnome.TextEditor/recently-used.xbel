@@ -3,11 +3,47 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/parmagen/.git/config" added="2024-10-25T10:29:25.013141Z" modified="2024-10-25T10:30:42.533873Z" visited="2024-10-25T13:29:21.759368+03">
+  <bookmark href="file:///home/parmagen/.git/config" added="2024-10-25T10:29:25.013141Z" modified="2024-10-25T11:07:51.423443Z" visited="2024-10-25T14:07:47.726924+03">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-25T10:30:42.533871Z" count="9"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-25T11:07:51.423442Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/README.md" added="2024-10-25T11:07:05.041965Z" modified="2024-10-25T11:07:51.423441Z" visited="2024-10-25T14:07:47.755663+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-25T11:07:51.423441Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/log_help.md" added="2024-10-25T11:07:16.020390Z" modified="2024-10-25T11:07:51.423438Z" visited="2024-10-25T14:07:47.752460+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-25T11:07:51.423437Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/commit_help.md" added="2024-10-25T11:07:20.022080Z" modified="2024-10-25T11:07:51.423435Z" visited="2024-10-25T14:07:47.723546+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-25T11:07:51.423433Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/reset_help.md" added="2024-10-25T11:07:50.042113Z" modified="2024-10-25T11:07:51.423440Z" visited="2024-10-25T14:07:47.754492+03">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2024-10-25T11:07:51.423439Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
