@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/parmagen/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/git_task_full.pdf" added="2024-10-25T10:28:20.694139Z" modified="2024-10-25T10:28:21.143254Z" visited="2024-10-25T10:28:20.694141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;evince %U&apos;" modified="2024-10-25T10:28:20.694143Z" count="1"/>
+          <bookmark:application name="Просмотр документов" exec="&apos;evince %u&apos;" modified="2024-10-25T10:28:21.143250Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/parmagen/.git/config" added="2024-10-25T10:29:21.198273Z" modified="2024-10-25T10:29:21.198279Z" visited="2024-10-25T10:29:21.198274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2024-10-25T10:29:21.198276Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

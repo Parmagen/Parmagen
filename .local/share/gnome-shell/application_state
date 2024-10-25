@@ -1,10 +1,13 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.Nautilus.desktop" score="3" last-seen="1729686937"/>
-    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
-    <application id="gnome-initial-setup.desktop" score="0.125" last-seen="1729444503"/>
-    <application id="org.gnome.Terminal.desktop" score="76695664.125" last-seen="1729686937"/>
-    <application id="org.gnome.Settings.desktop" score="0.125" last-seen="1729697451"/>
+    <application id="org.gnome.Evince.desktop" score="10" last-seen="1729852301"/>
+    <application id="org.gnome.Nautilus.desktop" score="13.000732421875" last-seen="1729852235"/>
+    <application id="org.gnome.Settings.desktop" score="3.0517578125e-05" last-seen="1729697451"/>
+    <application id="gnome-initial-setup.desktop" score="3.0517578125e-05" last-seen="1729444503"/>
+    <application id="firefox_firefox.desktop" score="93.00830078125" last-seen="1729851649"/>
+    <application id="org.gnome.Terminal.desktop" score="18814.263458251953" last-seen="1729852273"/>
+    <application id="org.gnome.SystemMonitor.desktop" score="0" last-seen="1729796729"/>
+    <application id="org.gnome.TextEditor.desktop" score="6" last-seen="1729852242"/>
   </context>
 </application-state>
